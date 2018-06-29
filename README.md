@@ -1,5 +1,7 @@
 # A Trigger Trainer
 
+![screenshot](./screenshot.png)
+
 A simple NES rom that helps learn the timing for a Mega Man II A triggered zip.
 Based off of the tutorials at nesdoug.com.
 
